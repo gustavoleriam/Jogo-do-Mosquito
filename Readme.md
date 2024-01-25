@@ -1,0 +1,1 @@
+Este projeto foi criado com HTML,CSS e JavaScript. Trata-se de um jogo que possui níveis de dificuldade.
